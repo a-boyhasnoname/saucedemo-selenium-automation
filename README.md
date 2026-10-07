@@ -226,7 +226,3 @@ SauceDemo provides public demo testing credentials:
 | Locked Out User | `locked_out_user` | `secret_sauce` | Validated in lock-out scenario |
 
 ---
-
-## 📝 Portfolio Description Summary
-
-> **Selenium WebDriver Web Automation Framework**: Scalable end-to-end automation framework built for SauceDemo using Python, Pytest, and Page Object Model (POM). Automates login, catalog sorting, cart operations, checkout tax calculations, and session navigation across 29 test scenarios with explicit waits, failure screenshots, HTML reports, and GitHub Actions CI.
